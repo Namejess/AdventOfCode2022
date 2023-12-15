@@ -10,3 +10,5 @@ p2 = sum(sorted(Sum, reverse=True)[:3])
 print(p1)
 print(p2)
 
+
+
